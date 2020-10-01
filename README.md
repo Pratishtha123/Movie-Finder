@@ -5,7 +5,7 @@
 ![fork](https://img.shields.io/github/forks/vngarg/Movie-Finder)
 
 # Movie-Finder
-1. For all the movie lovers who find very difficult to search for a movie to watch. No you can easily get all the latest and top movies, watch trailers and also see their cast and IMDB rating all at one place.
+1. For all the movie lovers who find very difficult to search for a movie to watch. Now you can easily get all the latest and top movies, watch trailers and also see their cast and IMDB rating all at one place.
 2. Go to the end and download the APK for the Movie-Finder and enjoy the show.
 
 ## App Demo
